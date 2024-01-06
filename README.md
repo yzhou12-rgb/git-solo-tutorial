@@ -1,3 +1,1 @@
-print("Git Solo Tutorial")
-print("Yuao Zhou")
-print("Winter 2024")
+Git Solo Tutorial Yuao Zhou Winter 2024
